@@ -35,4 +35,4 @@ todo app using java core for cli. command prompt or from terminal.
     also important notice.
     I'm using mysql so mysql-connector-java jar file is very important to connect to mysql don't delete this file or change location. also run your xampp first. 
 
-    
+    https://github.com/asutoshad/todoapp/blob/main/image/code%20img%201.JPG
