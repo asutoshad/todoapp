@@ -82,7 +82,7 @@ public class TestMain {
     }
 
     private static void displaySavedTodos() {
-        // Database connection parameters
+       
         String jdbcUrl = "jdbc:mysql://localhost:3306/todolist";
         String username = "root";
         String password = "";
@@ -91,14 +91,14 @@ public class TestMain {
             // Load the JDBC driver
             Class.forName("com.mysql.cj.jdbc.Driver");
 
-            // Establish the database connection
+            
             Connection connection = DriverManager.getConnection(jdbcUrl, username, password);
 
             // SQL query to select all Todo records
             String sql = "SELECT title, description FROM todo";
 
             try (PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
-                // Execute the query
+               
                 ResultSet resultSet = preparedStatement.executeQuery();
 
                 // Display the results
