@@ -40,4 +40,10 @@ todo app using java core for cli. command prompt or from terminal.
 
    ![code img 1](https://github.com/asutoshad/todoapp/assets/50772652/e2ba42d0-3e6e-4fe8-a440-7ce978fa16a1)
 
+   ![code img 2](https://github.com/asutoshad/todoapp/assets/50772652/6eb1366b-e763-45db-8fd7-ded22be4a4b8)
+
+   
+![code img 3](https://github.com/asutoshad/todoapp/assets/50772652/3a3810b9-925f-4bb6-94fd-244470edc80d)
+
+
 
